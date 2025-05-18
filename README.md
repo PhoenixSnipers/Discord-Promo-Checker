@@ -17,4 +17,4 @@ A fast, multi-threaded Python tool that checks and classifies Discord Nitro prom
 
 ### 💻 SUPPORT
 
-- 🖤 **Discord**: discord.gg/PhoenixSniper
+- 🖤 **Discord**: https://discord.gg/PhoenixSniper
