@@ -12,3 +12,9 @@ A fast, multi-threaded Python tool that checks and classifies Discord Nitro prom
 - 🗃️ **Organized results**: saves valid, used, and invalid codes in separate files
 - 🧼 Automatically cleans and standardizes codes before checking
 - 🕒 Outputs are timestamped for easy session tracking
+
+---
+
+### 💻 SUPPORT
+
+- 🖤 **Discord**: discord.gg/PhoenixSniper
