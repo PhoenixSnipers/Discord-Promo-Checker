@@ -1,4 +1,4 @@
-# 🚀 Discord Promo Code Checker
+# 🚀 Discord Promo Code Checker V2
 
 A fast, multi-threaded Python tool that checks and classifies Discord Nitro promo codes (1-month and 3-month trials). Designed for speed and accuracy, the tool rotates through proxies, filters used and invalid codes, and saves results into categorized output files.
 
